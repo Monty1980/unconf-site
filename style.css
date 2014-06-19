@@ -1,0 +1,159 @@
+@font-face {
+    font-family: "sqmarket";
+    src: url(https://dl6rt3mwcjzxg.cloudfront.net/assets/sqmarket/sqmarket-light-90e164996c0d4502c3a133aa4c17e367.eot);
+    src: url(https://dl6rt3mwcjzxg.cloudfront.net/assets/sqmarket/sqmarket-light.eot?#iefix) format("embedded-opentype"), url(https://dl6rt3mwcjzxg.cloudfront.net/assets/sqmarket/sqmarket-light-2f642b292d14d75d5f32c9ed72c48474.woff) format("woff"), url(https://dl6rt3mwcjzxg.cloudfront.net/assets/sqmarket/sqmarket-light-577e933026b17c5256164aef57c8ac7d.ttf) format("truetype");
+    font-weight: 300;
+    font-style: normal
+}
+
+@font-face {
+    font-family: "sqmarket";
+    src: url(https://dl6rt3mwcjzxg.cloudfront.net/assets/sqmarket/sqmarket-lightitalic-e4ce2e3fc69ab5999229b14c1b7b1f7b.eot);
+    src: url(https://dl6rt3mwcjzxg.cloudfront.net/assets/sqmarket/sqmarket-lightitalic.eot?#iefix) format("embedded-opentype"), url(https://dl6rt3mwcjzxg.cloudfront.net/assets/sqmarket/sqmarket-lightitalic-5beba20ac0c52cb5d991db7e99f71922.woff) format("woff"), url(https://dl6rt3mwcjzxg.cloudfront.net/assets/sqmarket/sqmarket-lightitalic-3e163b665005e7ab43aa97636ee67fd0.ttf) format("truetype");
+    font-weight: 300;
+    font-style: italic
+}
+
+@font-face {
+    font-family: "sqmarket";
+    src: url(https://dl6rt3mwcjzxg.cloudfront.net/assets/sqmarket/sqmarket-regular-8f6aa7b4c84cda62fd9598512ace9656.eot);
+    src: url(https://dl6rt3mwcjzxg.cloudfront.net/assets/sqmarket/sqmarket-regular.eot?#iefix) format("embedded-opentype"), url(https://dl6rt3mwcjzxg.cloudfront.net/assets/sqmarket/sqmarket-regular-6a5fb006f7400e3ac2db120a476c56bd.woff) format("woff"), url(https://dl6rt3mwcjzxg.cloudfront.net/assets/sqmarket/sqmarket-regular-285bb7a624e3b212549965e043b4546b.ttf) format("truetype");
+    font-weight: 400;
+    font-style: normal
+}
+
+@font-face {
+    font-family: "sqmarket";
+    src: url(https://dl6rt3mwcjzxg.cloudfront.net/assets/sqmarket/sqmarket-regularitalic-5d5bbb7b9594074483b4fb14aabad53e.eot);
+    src: url(https://dl6rt3mwcjzxg.cloudfront.net/assets/sqmarket/sqmarket-regularitalic.eot?#iefix) format("embedded-opentype"), url(https://dl6rt3mwcjzxg.cloudfront.net/assets/sqmarket/sqmarket-regularitalic-942cd12f5ca71994cee00dee3d76c1fd.woff) format("woff"), url(https://dl6rt3mwcjzxg.cloudfront.net/assets/sqmarket/sqmarket-regularitalic-995bcc7deafdf240c97092781a1d57ea.ttf) format("truetype");
+    font-weight: 400;
+    font-style: italic
+}
+
+@font-face {
+    font-family: "sqmarket";
+    src: url(https://dl6rt3mwcjzxg.cloudfront.net/assets/sqmarket/sqmarket-medium-865d96e7980791a19f49d571fcfafca3.eot);
+    src: url(https://dl6rt3mwcjzxg.cloudfront.net/assets/sqmarket/sqmarket-medium.eot?#iefix) format("embedded-opentype"), url(https://dl6rt3mwcjzxg.cloudfront.net/assets/sqmarket/sqmarket-medium-5a6f039439c1c8e6064e37342270b45a.woff) format("woff"), url(https://dl6rt3mwcjzxg.cloudfront.net/assets/sqmarket/sqmarket-medium-2f16d003b72d02603c7e6c3b668316a7.ttf) format("truetype");
+    font-weight: 500;
+    font-style: normal
+}
+
+@font-face {
+    font-family: "sqmarket";
+    src: url(https://dl6rt3mwcjzxg.cloudfront.net/assets/sqmarket/sqmarket-mediumitalic-685339e650c7cf614a5f955fe77b335c.eot);
+    src: url(https://dl6rt3mwcjzxg.cloudfront.net/assets/sqmarket/sqmarket-mediumitalic.eot?#iefix) format("embedded-opentype"), url(https://dl6rt3mwcjzxg.cloudfront.net/assets/sqmarket/sqmarket-mediumitalic-dad21b4b4bbbc99a3f1d500cd73e7ab9.woff) format("woff"), url(https://dl6rt3mwcjzxg.cloudfront.net/assets/sqmarket/sqmarket-mediumitalic-03c0644f01ee5885bbd1278d551b2ab2.ttf) format("truetype");
+    font-weight: 500;
+    font-style: italic
+}
+
+@font-face {
+    font-family: "sqmarket";
+    src: url(https://dl6rt3mwcjzxg.cloudfront.net/assets/sqmarket/sqmarket-bold-e86ea046b03f22f8be0393f14e98fd81.eot);
+    src: url(https://dl6rt3mwcjzxg.cloudfront.net/assets/sqmarket/sqmarket-bold.eot?#iefix) format("embedded-opentype"), url(https://dl6rt3mwcjzxg.cloudfront.net/assets/sqmarket/sqmarket-bold-4eb993fdb0c4963ab37df16496655cb8.woff) format("woff"), url(https://dl6rt3mwcjzxg.cloudfront.net/assets/sqmarket/sqmarket-bold-7aac7bb86d93b69a5639bf751d58c50b.ttf) format("truetype");
+    font-weight: 700;
+    font-style: normal
+}
+
+@font-face {
+    font-family: "sqmarket";
+    src: url(https://dl6rt3mwcjzxg.cloudfront.net/assets/sqmarket/sqmarket-bolditalic-27ffd60ac3a8f22a532f4d2c94d65e96.eot);
+    src: url(https://dl6rt3mwcjzxg.cloudfront.net/assets/sqmarket/sqmarket-bolditalic.eot?#iefix) format("embedded-opentype"), url(https://dl6rt3mwcjzxg.cloudfront.net/assets/sqmarket/sqmarket-bolditalic-5f1966a90f04ae0392ddc458c2f5ce17.woff) format("woff"), url(https://dl6rt3mwcjzxg.cloudfront.net/assets/sqmarket/sqmarket-bolditalic-23900cc22217a2be6f9e39db3972da8f.ttf) format("truetype");
+    font-weight: 700;
+    font-style: italic
+}
+
+body {
+	padding: 0;
+	margin: 0;
+	font-family: sqmarket;
+}
+
+article#title-bar {
+	background-color: rgb(125, 165, 190);
+	padding-bottom: 20px;
+}
+
+article#title-bar h1 {
+	font-size: 32px;
+	text-align: center;
+	color: white;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+article#title-bar blockquote {
+	font-style: italic;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	margin-left: 40px;
+	margin-right: 40px;
+}
+
+section {
+	max-width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+article#fact-bar {
+	background-color: rgb(242, 242, 242);
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+article#fact-bar h2 {
+	font-size: 16px;
+	font-weight: 500;
+	text-align: center;
+	margin-bottom: 15px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	color: rgb(143, 153, 158);
+	border-bottom: 1px solid rgb(143, 153, 158);
+	padding-bottom: 10px;
+}
+
+.three-columns, .two-columns {
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: flex;
+	-webkit-flex-flow: horizontal nowrap;
+	-moz-flex-flow: horizontal nowrap;
+	flex-flow: horizontal nowrap;
+}
+
+.three-columns .column, .three-columns .column {
+	margin-right: 20px;
+}
+
+.three-columns .column:last-child {
+	margin-right: 0;
+}
+
+.two-columns .column {
+	width: 50%;
+}
+
+article#content h2 {
+	font-size: 24px;
+	font-weight: 500;
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+
+article#content ul {
+	list-style-type: square;
+	margin-left: 15px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+article#content ul li {
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+article#content p {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
