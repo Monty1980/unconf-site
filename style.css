@@ -62,15 +62,22 @@
     font-style: italic
 }
 
-body {
+/*body {
 	padding: 0;
 	margin: 0;
 	font-family: sqmarket;
+}*/
+
+img {
+	width: 1400px;
+	height: 600px;
 }
 
 article#title-bar {
 	/*background-color: rgb(125, 165, 190);*/
-	background: url(Unconf.jpg);
+	background-color: rgb(242, 242, 242);
+	
+	/*background: url(Unconf.jpg);*/
 	/* TODO: make image fit width */
 	height: 100%;
 	width: 100%;
@@ -81,7 +88,7 @@ article#title-bar h1 {
 	font-size: 32px;
 	text-align: center;
 	color: black;
-	padding-top: 280px;
+	padding-top: 20px;
 	padding-bottom: 20px;
 }
 
@@ -136,11 +143,12 @@ article#fact-bar p {
 }
 
 .three-columns .column, .three-columns .column {
-	margin-right: 20px;
+	margin-right: 40px;
 }
 
 .three-columns .column {
 	width: 33%;
+	text-align: center;
 }
 
 
@@ -150,6 +158,15 @@ article#fact-bar p {
 
 .two-columns .column {
 	width: 50%;
+}
+
+article#content h1 {
+	font-size: 24px;
+	font-weight: 500;
+	margin-top: 20px;
+	margin-bottom: 10px;
+	text-decoration: underline;
+	text-align: center;
 }
 
 article#content h2 {
