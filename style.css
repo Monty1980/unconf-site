@@ -64,7 +64,7 @@
 
 body {
 	font-family: sqmarket;
-	background-color: white;
+	/*background-color: white;*/
 }
 
 section {
@@ -109,44 +109,19 @@ section p {
 }
 
 
-.background-image {
-  position: fixed;
-  left: 0;
-  right: 0;
-  z-index: 1;
-
-  display: block;
-  background-image: url('Unconf.jpg');
-  width: 1200px;
-  height: 800px;
-
-  -webkit-filter: blur(5px);
-  -moz-filter: blur(5px);
-  -o-filter: blur(5px);
-  -ms-filter: blur(5px);
-  filter: blur(5px);
-/*
-  -webkit-filter: grayscale(100%);
--moz-filter: grayscale(100%);
-filter: grayscale(100%);*/
-}
 
 
 article#title-bar {
-/*background-image: url("Unconf.jpg");*/
+background-image: url("Unconf.jpg");
 	/*background-color: rgb(242, 242, 242);	*/
-/*	height: 100%;
-	width: 100%;*/
+	height: 100%;
+	width: 100%;
 }
 
 article#title-bar h1 {
 	font-size: 36px;
 	text-align: center;
 	color: white;
-/*	padding-top: 20px;
-	padding-bottom: 20px;
-*/	/*font-weight: 700;*/
-
 }
 
 /*article#title-bar p {
@@ -157,25 +132,58 @@ article#title-bar h1 {
 	margin-right: 40px;
 }
 */
+
+
+.content:before {
+  content: "";
+  /*position: fixed;*/
+  left: 0;
+  right: 0;
+  z-index: -1;
+  
+  display: block;
+  background-image: url('Unconf.jpg');
+  width: 100%;
+  height: 400px;
+  
+  -webkit-filter: blur(2px);
+  -moz-filter: blur(2px);
+  -o-filter: blur(2px);
+  -ms-filter: blur(2px);
+  filter: blur(2px);
+}
+
+.content {
+  /*position: fixed;*/
+  left: 0;
+  right: 0;
+  z-index: 0;
+  margin-left: 20px;
+  margin-right: 20px;
+  color: white;
+  text-align: center;
+
+}
+
+/*
 article#title-bar img {
-	/*width: 540px;*/
-	/*height: auto;*/
-	/*display: block;*/
+
 
 	max-width: 100%;
     height: auto;
-    width: auto\9; /* ie8 */
+    width: auto\9; 
 }
 
 
 img.desaturate { -webkit-filter: grayscale(100%);
 -moz-filter: grayscale(100%);
 filter: grayscale(100%);
-}
+}*/
 
 /* Puts fact-bar into grey box. */
 article#fact-bar {
 	background-color: rgb(198, 249, 255);
+	width: 100%;
 	padding-top: 20px;
 	padding-bottom: 20px;
 }
