@@ -197,11 +197,12 @@ article#fact-bar p {
 #left_col {
    float:left;
    width:150px;
-   line-height:150%
+   line-height:120%
 }
 #right_col {
    float:right;
    width:400px;
+   line-height:120%
 }
 /* Table end */
 
