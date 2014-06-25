@@ -255,3 +255,9 @@ article#content p {
 	margin-top: 10px;
 	margin-bottom: 10px;
 }
+
+
+article#footer {
+  background-color: rgb(125, 165, 190);
+  padding-bottom: 40px;
+}
